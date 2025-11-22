@@ -1,7 +1,7 @@
 # 🏡 Boston House Price Prediction — Analysis & Modeling
 ## 📘 Project Description
 
-This project applies data analysis and machine learning techniques to predict housing prices in the Boston metropolitan area. Using the classic Boston Housing dataset, the study explores how different socio-economic and structural attributes—such as crime rate, number of rooms, accessibility to highways, property tax rates, and education quality—impact the median value of homes.
+This project applies data analysis and machine learning techniques to predict housing prices in the Boston metropolitan area. Using the classic Boston Housing dataset, the study explores how different socio-economic and structural attributes—such as crime rate, number of rooms, accessibility to highways, property tax rates, and education quality impact the median value of homes.
 
 Through exploratory data analysis (EDA), feature understanding, and regression modeling, this project aims to build an interpretable and reliable model capable of estimating house prices based on key neighborhood characteristics.
 
